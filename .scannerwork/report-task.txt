@@ -1,0 +1,6 @@
+projectKey=26017_alm_java_G3:master
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=26017_alm_java_G3%3Amaster
+ceTaskId=AYTmGLJdaJbjh5-CmcwI
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYTmGLJdaJbjh5-CmcwI
