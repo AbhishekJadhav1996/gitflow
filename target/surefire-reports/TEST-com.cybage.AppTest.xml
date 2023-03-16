@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.cybage.AppTest" time="0.159" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.cybage.AppTest" time="0.19" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin"/>
-    <property name="sun.java.command" value="C:\Users\ABHISH~1\AppData\Local\Temp\surefire15208551817105632497\surefirebooter14945074395824573785.jar C:\Users\abhishekjad\AppData\Local\Temp\surefire15208551817105632497 2023-03-15T14-18-19_895-jvmRun1 surefire3935887268527398388tmp surefire_0932202574284134621tmp"/>
+    <property name="sun.java.command" value="C:\Users\ABHISH~1\AppData\Local\Temp\surefire12155430831327591860\surefirebooter9088137974501650620.jar C:\Users\abhishekjad\AppData\Local\Temp\surefire12155430831327591860 2023-03-16T12-47-23_393-jvmRun1 surefire7545776326966361165tmp surefire_014977182778139127527tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="E:\Sonar Practice\Maven\MavenDemo\target\test-classes;E:\Sonar Practice\Maven\MavenDemo\target\classes;C:\Users\abhishekjad\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\abhishekjad\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\abhishekjad\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.0.0\jakarta.persistence-api-3.0.0.jar;C:\Users\abhishekjad\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.0\jakarta.transaction-api-2.0.0.jar;C:\Users\abhishekjad\.m2\repository\org\jboss\logging\jboss-logging\3.4.3.Final\jboss-logging-3.4.3.Final.jar;C:\Users\abhishekjad\.m2\repository\org\hibernate\common\hibernate-commons-annotations\6.0.2.Final\hibernate-commons-annotations-6.0.2.Final.jar;C:\Users\abhishekjad\.m2\repository\org\jboss\jandex\2.4.2.Final\jandex-2.4.2.Final.jar;C:\Users\abhishekjad\.m2\repository\com\fasterxml\classmate\1.5.1\classmate-1.5.1.jar;C:\Users\abhishekjad\.m2\repository\net\bytebuddy\byte-buddy\1.12.18\byte-buddy-1.12.18.jar;C:\Users\abhishekjad\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\3.0.1\jakarta.xml.bind-api-3.0.1.jar;C:\Users\abhishekjad\.m2\repository\com\sun\activation\jakarta.activation\2.0.1\jakarta.activation-2.0.1.jar;C:\Users\abhishekjad\.m2\repository\org\glassfish\jaxb\jaxb-runtime\3.0.2\jaxb-runtime-3.0.2.jar;C:\Users\abhishekjad\.m2\repository\org\glassfish\jaxb\jaxb-core\3.0.2\jaxb-core-3.0.2.jar;C:\Users\abhishekjad\.m2\repository\org\glassfish\jaxb\txw2\3.0.2\txw2-3.0.2.jar;C:\Users\abhishekjad\.m2\repository\com\sun\istack\istack-commons-runtime\4.0.1\istack-commons-runtime-4.0.1.jar;C:\Users\abhishekjad\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.0\jakarta.inject-api-2.0.0.jar;C:\Users\abhishekjad\.m2\repository\org\antlr\antlr4-runtime\4.10.1\antlr4-runtime-4.10.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\ABHISH~1\AppData\Local\Temp\surefire15208551817105632497\surefirebooter14945074395824573785.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ABHISH~1\AppData\Local\Temp\surefire12155430831327591860\surefirebooter9088137974501650620.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="isNotPalindromTest" classname="com.cybage.AppTest" time="0"/>
+  <testcase name="isNotPalindromTest" classname="com.cybage.AppTest" time="0.001"/>
   <testcase name="isPalindromeTest" classname="com.cybage.AppTest" time="0"/>
   <testcase name="isPalindromExceptionTest" classname="com.cybage.AppTest" time="0"/>
 </testsuite>
